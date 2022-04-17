@@ -1,8 +1,9 @@
 ![](wisteria.jpg)
 ### Hi there 👋 
-👩‍🎓 I'm a first-year master's student.
-💻 My research topic is Computer Vision.
-📸 I love taking photos.
+
+#### 👩‍🎓 I'm a first-year master's student.
+#### 💻 My research topic is Computer Vision.
+#### 📸 I love taking photos.
 
 <!--
 **sh1027/sh1027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

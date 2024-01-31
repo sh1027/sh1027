@@ -1,7 +1,7 @@
 ![](wisteria.jpg)
 ### Hi there 👋 
 
-#### 👩‍🎓 I'm a first-year master's student.
+#### 👩‍🎓 I'm a Ph.D. student at Keio University
 #### 💻 My research topic is Computer Vision.
 #### 📸 I love taking photos.
 
